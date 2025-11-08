@@ -1,28 +1,52 @@
 # 👋 Hi, I'm Toussaint Rwego
 
-**Data Engineer | Software Developer | ML Operations Specialist**  
+**Electronics & Telecommunication Engineer | Multidisciplinary Systems Engineer**  
 📍 Kigali, Rwanda
+
+**Domains:** Embedded Systems • ML Operations • Software Development • Data Engineering
 
 ---
 
 ## 🚀 About Me
 
-I'm a Data Engineer and Software Developer specializing in **automation**, **data pipelines**, and **ML operations**. I build production systems that make teams more efficient and data more accessible.
+I'm an **Electronics & Telecommunication Engineer** with a multidisciplinary background spanning hardware, software, and systems engineering. My career journey bridges the physical and digital worlds—from operating UAVs and maintaining embedded systems to building data pipelines and web applications for ML teams.
 
 **Current Role:** Autonomy Annotation Technical Lead at [Zipline](https://flyzipline.com)  
-**Impact:** Built systems that save **95% of manual time** (2 hours → 6 minutes daily) and support **30+ team members** processing **1,000+ work units/day**
+**Background:** UAV Operations → RF Engineering → ML Operations → Technical Leadership  
+**Impact:** Built systems that save **95% of manual time** and support **30+ team members** processing **1,000+ work units/day**
+
+**What makes me unique:** I bring hardware intuition to software problems and software thinking to hardware challenges—an all-round engineer comfortable across the full technology stack.
 
 ---
 
 ## 💼 What I Do
 
 ```python
-skills = {
-    "data_engineering": ["Databricks", "Python", "pandas", "SQL", "ETL pipelines"],
-    "web_development": ["JavaScript (ES6+)", "HTML5/CSS3", "Google Apps Script"],
-    "computer_vision": ["OpenCV", "scikit-image", "feature extraction"],
-    "ml_operations": ["Annotation pipelines", "Quality metrics", "Data workflows"],
-    "automation": ["Slack webhooks", "Scheduled jobs", "API integration"]
+engineering_domains = {
+    "electronics_embedded": {
+        "background": "BSc Electronics & Telecommunication Engineering",
+        "experience": ["UAV operations", "RF systems", "Hardware troubleshooting"],
+        "projects": ["Lifesaving drone missions", "Telecom drive testing", "Systems maintenance"]
+    },
+    "ml_operations": {
+        "focus": "Supporting ML perception teams with data and tooling",
+        "skills": ["Annotation pipelines", "Quality metrics (IoU, IAA)", "Data workflows"],
+        "impact": "60% error reduction, 30+ team members supported"
+    },
+    "software_development": {
+        "languages": ["Python", "JavaScript (ES6+)", "SQL"],
+        "platforms": ["Databricks", "Google Apps Script", "Web Apps"],
+        "projects": ["Automation dashboards", "Data pipelines", "Zero-dependency UIs"]
+    },
+    "data_engineering": {
+        "tools": ["Databricks", "pandas", "SQL", "ETL pipelines"],
+        "apis": ["Segments.ai", "Encord", "Slack webhooks"],
+        "impact": "95% time savings, 1,000+ work units/day"
+    },
+    "computer_vision": {
+        "libraries": ["OpenCV", "scikit-image"],
+        "projects": ["Bitmap complexity analysis", "Feature extraction", "Metrics design"]
+    }
 }
 ```
 

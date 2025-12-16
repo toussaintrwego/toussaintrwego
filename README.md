@@ -117,7 +117,8 @@ Full-stack web application for grading take-home assignments
 ## 💬 Let's Connect
 
 - 💼 **LinkedIn:** [toussaint-rwego-330000100](https://www.linkedin.com/in/toussaint-rwego-330000100/)
-- 📧 **Email:** rwegot@gmail.com
+- 📧 **Email:** toussaint.rwego@flyzipline.com
+- 📧 **Personal Email:** rwegot@gmail.com
 - 📞 **Phone:** +250 784 081 225
 - 📍 **Location:** Kigali, Rwanda
 
